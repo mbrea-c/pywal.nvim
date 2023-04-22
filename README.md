@@ -1,3 +1,7 @@
+# IMPORTANT DEPRECATION NOTICE
+
+I have refactored and split the code of this repository into a separate api [wal-colors.nvim](https://github.com/mbrea-c/wal-colors.nvim), colorscheme [mbc-colorscheme.nvim](https://github.com/mbrea-c/mbc-colorscheme.nvim) and lualine theme [mbc-lualine.nvim](https://github.com/mbrea-c/mbc-lualine.nvim). Please look at these repositories for the functionality. In particular, look at [mbc-colorscheme.nvim](https://github.com/mbrea-c/mbc-colorscheme.nvim) to install the updated theme.
+
 # pywal.nvim
 
 Pywal.nvim is reimplementation of [pywal.vim](https://github.com/dylanaraps/wal.vim)
